@@ -1,0 +1,4 @@
+- In order to run the code, you have to add the project by importing it to your IDE(Eclipse in my case).
+- After you done that you have to open one of the three packages: semaphores, monitors or locks. 
+- After you opened one of the packages you have to access the Application{NameOfThePackage}.java class where the main method is located. 
+- After accessing it, you just have to hit the run button from the taskbar and the output will start to be printed in the console.
